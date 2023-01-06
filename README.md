@@ -1,4 +1,4 @@
-# VersionLib (vlib)
+# vlib ⚡ vll
 
 vlib is a cross platform library format that also includes a linker(vll) that works on any platform for any platform. Its main aim is to allow cross compiling and removing the dependency hells that all operating systems are currently in.
 
